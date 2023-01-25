@@ -1,7 +1,7 @@
-# nft-marketplace-starter-kit
-Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
-Make sure you are in the source file. 
-
+#  You need Ganache and MEtamask installed to start this application
+#
+![image](https://user-images.githubusercontent.com/36647206/214475189-d398989e-cbc3-4121-b077-ee0a49874ae0.png)
+ 
 **Please ensure you have downloaded the following additionally **
 
 1. Ganache
